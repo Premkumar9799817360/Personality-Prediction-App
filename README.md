@@ -37,7 +37,7 @@ The MBTI categorizes individuals based on four key dimensions:
 
 Each person is classified into **one of 16 personality types**, based on the combination of these preferences.
 
-![Screenshot (40)](https://github.com/Premkumar9799817360/Personality-Prediction-App/assets/83695512/1419e651-f7e2-4f74-9541-7151f91d8cea)
+![Screenshot (40)](https://github.com/Premkumar9799817360/Personality-Prediction-App/blob/main/image.png)
 
 
 
